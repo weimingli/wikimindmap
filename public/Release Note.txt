@@ -1,0 +1,21 @@
+HP WikiMap V1.2 Release note:
+
+This is the first version of HP WikiMap, and the following new features were added:
+
+1. A search feature is added.
+2. Search result optimization, multiply pages navigation feature is added.
+3. Search result indicative message is added above the wikimap flash content. 
+4. Starting page modified.
+5. Wiki headers hierarchy can be parsed(maximum level is 10).
+6. WikiMindMap is able to render content that is populated via a single Wiki template
+7. The headers containing special characters (ex “&”)  could be parsed correctly.
+8. Wiki Headers that are decorated (ex. Bold “’’’” can link back to header.  
+9. We rearchitected the main parsing algorithm and randering engine.
+10. 'Pre Page' in V1.0 was modified to "Previous Page"
+
+To be enhanced:
+1. Parsing complex wiki pages with multiple templates.
+2. Rich text format enhancement to flash content.
+	
+
+If you have any comments or suggestions, please don't be hesitated to let us know, and my email address is tao.zhang10@hp.com
